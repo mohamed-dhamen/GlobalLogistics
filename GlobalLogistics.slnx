@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GlobalLogistics.core/GlobalLogistics.core.csproj" />
+  <Project Path="GlobalLogistics.Tests/GlobalLogistics.Tests.csproj" />
+</Solution>

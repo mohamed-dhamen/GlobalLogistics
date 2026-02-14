@@ -1,0 +1,15 @@
+/workspaces/GlobalLogistics/GlobalLogistics.core/obj/Debug/net10.0/GlobalLogistics.core.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/GlobalLogistics/GlobalLogistics.core/obj/Debug/net10.0/GlobalLogistics.core.AssemblyInfoInputs.cache
+/workspaces/GlobalLogistics/GlobalLogistics.core/obj/Debug/net10.0/GlobalLogistics.core.AssemblyInfo.cs
+/workspaces/GlobalLogistics/GlobalLogistics.core/obj/Debug/net10.0/GlobalLogistics.core.csproj.CoreCompileInputs.cache
+/workspaces/GlobalLogistics/GlobalLogistics.core/obj/Debug/net10.0/GlobalLogistics.core.sourcelink.json
+/workspaces/GlobalLogistics/GlobalLogistics.core/bin/Debug/net10.0/GlobalLogistics.core
+/workspaces/GlobalLogistics/GlobalLogistics.core/bin/Debug/net10.0/GlobalLogistics.core.deps.json
+/workspaces/GlobalLogistics/GlobalLogistics.core/bin/Debug/net10.0/GlobalLogistics.core.runtimeconfig.json
+/workspaces/GlobalLogistics/GlobalLogistics.core/bin/Debug/net10.0/GlobalLogistics.core.dll
+/workspaces/GlobalLogistics/GlobalLogistics.core/bin/Debug/net10.0/GlobalLogistics.core.pdb
+/workspaces/GlobalLogistics/GlobalLogistics.core/obj/Debug/net10.0/GlobalLogistics.core.dll
+/workspaces/GlobalLogistics/GlobalLogistics.core/obj/Debug/net10.0/refint/GlobalLogistics.core.dll
+/workspaces/GlobalLogistics/GlobalLogistics.core/obj/Debug/net10.0/GlobalLogistics.core.pdb
+/workspaces/GlobalLogistics/GlobalLogistics.core/obj/Debug/net10.0/GlobalLogistics.core.genruntimeconfig.cache
+/workspaces/GlobalLogistics/GlobalLogistics.core/obj/Debug/net10.0/ref/GlobalLogistics.core.dll
